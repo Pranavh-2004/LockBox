@@ -1,0 +1,22 @@
+# Ignore log files
+logs/
+
+# Ignore temporary files created by MacOS
+.DS_Store
+
+# Ignore GPG encrypted files if you don't want to track them
+#*.gpg
+
+# Ignore any other temporary files
+*.swp
+*.bak
+
+# Ignore Node.js modules if applicable
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore compiled binary files or any other output files
+*.out
+*.log

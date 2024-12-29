@@ -1,0 +1,1 @@
+Encryption with GPG (GNU Privacy Guard) is a process that ensures the confidentiality and integrity of data by transforming it into an unreadable format, which can only be decrypted using the correct key. GPG is widely used for encrypting files and emails. It is based on the OpenPGP standard (RFC 4880), which is widely recognized for secure communication.
